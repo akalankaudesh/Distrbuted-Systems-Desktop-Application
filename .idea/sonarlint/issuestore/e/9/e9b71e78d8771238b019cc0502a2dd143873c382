@@ -1,0 +1,9 @@
+
+nsquid:CommentedOutCodeLinex"<This block of commented-out lines of code should be removed.(€°™¨þÿÿÿÿ8Ç¦§’¯-
+fsquid:S00100}"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(„õÏâ
+nsquid:CommentedOutCodeLinej"<This block of commented-out lines of code should be removed.(ÈÁêóùÿÿÿÿ8Ç¦§’¯-
+nsquid:CommentedOutCodeLinep"<This block of commented-out lines of code should be removed.(ë‰ïÕùÿÿÿÿ8Ç¦§’¯-
+Isquid:S10685"+Remove this unused "orderId" private field.(ñÔ»û8Ç¦§’¯-
+Isquid:S1172}"2Remove this unused method parameter "actionEvent".(„õÏâ
+tsquid:S14505"VRemove the "orderId" field and declare it as a local variable in the relevant methods.(ñÔ»û8Ç¦§’¯-
+isquid:CommentedOutCodeLines"<This block of commented-out lines of code should be removed.(ƒÒ„Ã8Ç¦§’¯-

@@ -1,0 +1,25 @@
+
+Xsquid:S1141P"5Extract this nested try block into a separate method.(¡»¢üùÿÿÿÿ8¹Ş¾¨-
+@squid:S1148—"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ
+Xsquid:S11410"5Extract this nested try block into a separate method.(¡»¢üùÿÿÿÿ8‡Ø¼¨-
+Xsquid:S1141p"5Extract this nested try block into a separate method.(¡»¢üùÿÿÿÿ8­¡À¨-
+‡squid:S1319"pThe return type of this method should be an interface such as "List" rather than the implementation "ArrayList".(‘Ç²Ê
+Fsquid:S11488"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ8‡Ø¼¨-
+_squid:S2095’"GUse try-with-resources or close this "ResultSet" in a "finally" clause.(éáÅß
+Fsquid:S1148^"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ8¹Ş¾¨-
+rsquid:S20951"OUse try-with-resources or close this "PreparedStatement" in a "finally" clause.(ùŒ‘áøÿÿÿÿ8ã¯½¨-
+Fsquid:S1148="#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ8‡Ø¼¨-
+Fsquid:S1148{"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ8­¡À¨-
+Fsquid:S1148v"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ8­¡À¨-
+Fsquid:S1604G"(Make this anonymous inner class a lambda(ÉãÃ®8¹Ş¾¨-
+^squid:S2095"GUse try-with-resources or close this "ResultSet" in a "finally" clause.(éáÅß
+msquid:S2095Q"OUse try-with-resources or close this "PreparedStatement" in a "finally" clause.(èäˆ‡8¥¿¨-
+Psquid:S1118":Add a private constructor to hide the implicit public one.(úËR
+Fsquid:S1604'"(Make this anonymous inner class a lambda(ÉãÃ®8‡Ø¼¨-
+?squid:S1148"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ
+Tsquid:S1172F"1Remove this unused method parameter "employeeID".(àŸ¿Çıÿÿÿÿ8¢—µ§-
+Fsquid:S1148Y"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ8¹Ş¾¨-
+gsquid:S2095‘"OUse try-with-resources or close this "PreparedStatement" in a "finally" clause.(ÂÜæ
+msquid:S2095q"OUse try-with-resources or close this "PreparedStatement" in a "finally" clause.(Ø”‚×8ÒúÀ¨-
+fsquid:S2095"OUse try-with-resources or close this "PreparedStatement" in a "finally" clause.(äÆø
+Fsquid:S1604g"(Make this anonymous inner class a lambda(ÉãÃ®8­¡À¨-

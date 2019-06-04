@@ -1,0 +1,8 @@
+
+esquid:S00100C"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(‘ªΕ
+Nsquid:S1172e"2Remove this unused method parameter "actionEvent".(τΉύνόÿÿÿÿ
+fsquid:S00100W"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ζ‹ϋΑ
+ksquid:S00100e"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(τΉύνόÿÿÿÿ
+gsquid:CommentedOutCodeLineF"<This block of commented-out lines of code should be removed.(ού΅άϊÿÿÿÿ
+^squid:UnusedPrivateMethod:"2Remove this unused private "getOrderTotal" method.(ό€„8®Μ•’―-
+Zsquid:HiddenFieldCheck]"8Rename "root" which hides the field declared at line 35.(°ΐ®©

@@ -1,0 +1,21 @@
+
+Fsquid:S1604#"(Make this anonymous inner class a lambda(ÉãÃ®8ÅĞÜ¨-
+Fsquid:S11485"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ8ÅĞÜ¨-
+Fsquid:S1148x"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ8ÂÆß¨-
+msquid:S2095N"OUse try-with-resources or close this "PreparedStatement" in a "finally" clause.(ï‡¿¾8×Ş¨-
+msquid:S2095-"OUse try-with-resources or close this "PreparedStatement" in a "finally" clause.(Ò¤Ä—8‚±İ¨-
+Fsquid:S1148:"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ8ÅĞÜ¨-
+Fsquid:S1148["#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ8×Ş¨-
+‡squid:S1319"pThe return type of this method should be an interface such as "List" rather than the implementation "ArrayList".(ÿˆâÒ
+^squid:S2095"GUse try-with-resources or close this "ResultSet" in a "finally" clause.(éáÅß
+Fsquid:S1148s"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ8ÂÆß¨-
+Fsquid:S1148V"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ8×Ş¨-
+Xsquid:S1141m"5Extract this nested try block into a separate method.(¡»¢üùÿÿÿÿ8ÂÆß¨-
+Fsquid:S1604D"(Make this anonymous inner class a lambda(ÉãÃ®8×Ş¨-
+msquid:S2095n"OUse try-with-resources or close this "PreparedStatement" in a "finally" clause.(µ”ÓÄ8ÂÆß¨-
+Qsquid:S1118":Add a private constructor to hide the implicit public one.(òÉµŠ
+Xsquid:S1141M"5Extract this nested try block into a separate method.(¡»¢üùÿÿÿÿ8×Ş¨-
+fsquid:S2095"OUse try-with-resources or close this "PreparedStatement" in a "finally" clause.(ö’óã
+?squid:S1148"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ
+Xsquid:S1141,"5Extract this nested try block into a separate method.(¡»¢üùÿÿÿÿ8ÅĞÜ¨-
+Fsquid:S1604d"(Make this anonymous inner class a lambda(ÉãÃ®8ÂÆß¨-

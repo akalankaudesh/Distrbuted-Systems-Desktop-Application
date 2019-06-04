@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import com.jfoenix.controls.JFXButton?>
+<?import com.jfoenix.controls.JFXPasswordField?>
+<?import com.jfoenix.controls.JFXTextField?>
+<?import javafx.scene.control.Label?>
+<?import javafx.scene.image.Image?>
+<?import javafx.scene.image.ImageView?>
+<?import javafx.scene.layout.AnchorPane?>
+
+<AnchorPane fx:id="anchorPane" maxHeight="-Infinity" maxWidth="-Infinity" minHeight="-Infinity" minWidth="-Infinity" prefHeight="399.0" prefWidth="335.0" style="-fx-background-color: white;" xmlns="http://javafx.com/javafx/8.0.171" xmlns:fx="http://javafx.com/fxml/1" fx:controller="lk.nsbm.com.jr.controller.LoginController">
+   <children>
+      <ImageView fitHeight="121.0" fitWidth="161.0" layoutX="83.0" layoutY="8.0" pickOnBounds="true" preserveRatio="true">
+         <image>
+            <Image url="@../asset/ijse-logo.gif" />
+         </image>
+      </ImageView>
+      <JFXTextField fx:id="txtUsername" labelFloat="true" layoutX="21.0" layoutY="193.0" prefHeight="28.0" prefWidth="293.0" promptText="Username" />
+      <JFXPasswordField fx:id="txtPassword" labelFloat="true" layoutX="21.0" layoutY="246.0" prefHeight="28.0" prefWidth="293.0" promptText="Password" />
+      <Label layoutX="68.0" layoutY="127.0" text="Welcome IJSE FX POS - Dep Version" />
+      <JFXButton fx:id="btnLogin" layoutX="129.0" layoutY="299.0" onAction="#btnLogin_OnAction" prefHeight="28.0" prefWidth="75.0" style="-fx-background-color: orange; -fx-text-fill: white;" text="Login" />
+      <JFXButton layoutX="221.0" layoutY="354.0" onAction="#changeServerAction" text="Change Server" />
+   </children>
+</AnchorPane>

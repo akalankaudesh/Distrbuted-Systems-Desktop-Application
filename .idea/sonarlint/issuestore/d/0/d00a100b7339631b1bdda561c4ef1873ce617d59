@@ -1,0 +1,14 @@
+
+§squid:S1862∫"ÑThis branch can not be reached because the condition duplicates a previous condition in the same sequence of "if/else if" statements(ºèπÃ8àœÜ¶¶-
+jsquid:CommentedOutCodeLineÅ"<This block of commented-out lines of code should be removed.( ˛ˇÚ8Ò∞ûêØ-
+osquid:CommentedOutCodeLineì"<This block of commented-out lines of code should be removed.(Ò•˘ö¯ˇˇˇˇ8âƒ©êØ-
+Vsquid:S3655Ò"9Call "buttonType.isPresent()" before accessing the value.(≤‘˚¯˘ˇˇˇˇ
+lsquid:S00100†"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¡¿ÕÏ¯ˇˇˇˇ
+T
+squid:S106B"9Replace this use of System.out or System.err by a logger.(Æ˝·Î˚ˇˇˇˇ
+lsquid:S00100Ï"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(„Ëµ∏ˇˇˇˇˇ
+osquid:CommentedOutCodeLineÉ"<This block of commented-out lines of code should be removed.(Èÿª⁄˚ˇˇˇˇ8Ò∞ûêØ-
+lsquid:S1871∫"MThis branch's code block is the same as the block for the branch on line 182.(ºèπÃ8ˇ–Ñ¶¶-
+nsquid:CommentedOutCodeLine}"<This block of commented-out lines of code should be removed.(ﬁáòº˝ˇˇˇˇ8Ò∞ûêØ-
+nsquid:S00100ä"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ƒ»Üµ8âƒ©êØ-
+jsquid:S1192s"GDefine a constant instead of duplicating this literal "[^\\d]" 3 times.(˝˝–∆˘ˇˇˇˇ8ÿ°®°ß-

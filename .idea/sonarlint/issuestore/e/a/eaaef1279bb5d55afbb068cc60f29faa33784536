@@ -1,0 +1,10 @@
+
+isquid:CommentedOutCodeLine@"<This block of commented-out lines of code should be removed.(–œ¤¡8¯ý§-
+osquid:CommentedOutCodeLine‡"<This block of commented-out lines of code should be removed.(…ÐÑáúÿÿÿÿ8¯ý§-
+nsquid:S00100Ã"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ó†ÁÐ8¯ý§-
+]squid:S1854†"9Remove this useless assignment to local variable "items".(“«Ï¨ÿÿÿÿÿ8¯ý§-
+nsquid:S00100¾"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÄÈ†µ8¯ý§-
+Nsquid:S1481†"*Remove this unused "items" local variable.(“«Ï¨ÿÿÿÿÿ8¯ý§-
+]squid:S3655³"9Call "buttonType.isPresent()" before accessing the value.(²Ôûøùÿÿÿÿ8¯ý§-
+ssquid:S00100¯"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ãèµ¸ÿÿÿÿÿ8¯ý§-
+rsquid:S00100o"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÁÀÍìøÿÿÿÿ8¯ý§-

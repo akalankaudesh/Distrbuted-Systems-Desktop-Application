@@ -1,0 +1,12 @@
+
+gsquid:S00100Ö"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ó†ÁÐ
+osquid:CommentedOutCodeLine—"<This block of commented-out lines of code should be removed.(…ÐÑáúÿÿÿÿ8Âíò•¦-
+lsquid:S00100Â"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ãèµ¸ÿÿÿÿÿ
+Vsquid:S3655Æ"9Call "buttonType.isPresent()" before accessing the value.(²Ôûøùÿÿÿÿ
+Ž"squid:ClassVariableVisibilityCheck/"YMake txtCustomerId a static final constant or non-public and provide accessors if needed.(©ÿç8›™†ê®-
+]squid:S1854–"9Remove this useless assignment to local variable "items".( ™µ‚ÿÿÿÿÿ8Âíò•¦-
+isquid:CommentedOutCodeLineK"<This block of commented-out lines of code should be removed.(–œ¤¡8…¥Í–¦-
+©squid:S1862"„This branch can not be reached because the condition duplicates a previous condition in the same sequence of "if/else if" statements(º£ÊŒøÿÿÿÿ8Œú‰ê®-
+Nsquid:S1481–"*Remove this unused "items" local variable.( ™µ‚ÿÿÿÿÿ8Âíò•¦-
+gsquid:S00100Ñ"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÄÈ†µ
+ksquid:S00100{"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÁÀÍìøÿÿÿÿ

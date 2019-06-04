@@ -1,0 +1,30 @@
+
+?squid:S1148!"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ
+Ysquid:S1141“"5Extract this nested try block into a separate method.(¡»¢üùÿÿÿÿ8åò¶¨-
+esquid:S2095W"GUse try-with-resources or close this "ResultSet" in a "finally" clause.(¤³àÇ8¨Ô¾¯-
+Œsquid:S1319"pThe return type of this method should be an interface such as "List" rather than the implementation "ArrayList".(ô£ÓÇúÿÿÿÿ
+Gsquid:S1148º"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ8œ´ó¨-
+^squid:S2095"GUse try-with-resources or close this "ResultSet" in a "finally" clause.(éáÅß
+esquid:S2095W"GUse try-with-resources or close this "Statement" in a "finally" clause.(¤³àÇ8¨Ô¾¯-
+Xsquid:S1141r"5Extract this nested try block into a separate method.(¡»¢üùÿÿÿÿ8Š¢ö¨-
+ssquid:S2095”"OUse try-with-resources or close this "PreparedStatement" in a "finally" clause.(ØÖíûÿÿÿÿ8°Ö·¨-
+Gsquid:S1148"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ8åò¶¨-
+[squid:S1197R"8Move the array designator from the variable to the type.(™°üÿÿÿÿ8«§ìû®-
+Xsquid:S11412"5Extract this nested try block into a separate method.(¡»¢üùÿÿÿÿ8ƒ‰Å¯-
+Fsquid:S1148`"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ8¨Ô¾¯-
+Fsquid:S1148K"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ8ƒ‰Å¯-
+Gsquid:S1148€"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ8Š¢ö¨-
+Gsquid:S1148™"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ8åò¶¨-
+Fsquid:S1604i"(Make this anonymous inner class a lambda(ÉãÃ®8Öãê¨-
+Fsquid:S1148:"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ8ƒ‰Å¯-
+[squid:S1197)"8Move the array designator from the variable to the type.(™°üÿÿÿÿ8¤È‹ü®-
+Ksquid:S1604@"(Make this anonymous inner class a lambda(ôâŠûıÿÿÿÿ8ƒ‰Å¯-
+fsquid:S2095"OUse try-with-resources or close this "PreparedStatement" in a "finally" clause.(ÿ£ÜÁ
+msquid:S2095s"OUse try-with-resources or close this "PreparedStatement" in a "finally" clause.(ƒ¥Å8œ´ó¨-
+nsquid:S2095´"OUse try-with-resources or close this "PreparedStatement" in a "finally" clause.(ÂÜæ8œ´ó¨-
+rsquid:S20953"OUse try-with-resources or close this "PreparedStatement" in a "finally" clause.(€ö»“şÿÿÿÿ8ƒ‰Å¯-
+Msquid:S1172f"1Remove this unused method parameter "customerID".(å¨½ªûÿÿÿÿ
+Gsquid:S1604Š"(Make this anonymous inner class a lambda(ÉãÃ®8åò¶¨-
+Fsquid:S1148{"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ8œ´ó¨-
+fsquid:S2095µ"GUse try-with-resources or close this "ResultSet" in a "finally" clause.(éáÅß8œ´ó¨-
+]squid:S1118":Add a private constructor to hide the implicit public one.(ä…áäøÿÿÿÿ8šÃñû®-

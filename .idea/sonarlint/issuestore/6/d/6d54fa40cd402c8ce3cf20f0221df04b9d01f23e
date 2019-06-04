@@ -1,0 +1,15 @@
+
+“squid:S1319;"pThe return type of this method should be an interface such as "List" rather than the implementation "ArrayList".(àĞ¹üÿÿÿÿ8Ï†ñŒ¨-
+squid:S1192"aDefine a constant instead of duplicating this literal "jdbc:mysql://localhost:3306/ds_1" 3 times.(æ¡×Ã8¸›èè®-
+Csquid:S2068" Remove this hard-coded password.(‡È­¿ÿÿÿÿÿ8ö®Ø§-
+Csquid:S20681" Remove this hard-coded password.(­ÁËñúÿÿÿÿ8Á£Æ¨-
+Csquid:S2068" Remove this hard-coded password.(ãò€‡úÿÿÿÿ8Æ§Ã¨-
+Csquid:S2068"" Remove this hard-coded password.(‡È­¿ÿÿÿÿÿ8¸›èè®-
+>squid:S2068." Remove this hard-coded password.(»Ôè²8¸›èè®-
+>squid:S2068" Remove this hard-coded password.(æ¡×Ã8Æ§Ã¨-
+>squid:S2068" Remove this hard-coded password.(æ¡×Ã8¸›èè®-
+usquid:S3776"RRefactor this method to reduce its Cognitive Complexity from 21 to the 15 allowed.(ïÙ§üÿÿÿÿ8Á£Æ¨-
+Xsquid:S1118":Add a private constructor to hide the implicit public one.(® ©ş8¾„ñ¨-
+Csquid:S2068%" Remove this hard-coded password.(ãò€‡úÿÿÿÿ8Îùèè®-
+Csquid:S2068+" Remove this hard-coded password.(ãò€‡úÿÿÿÿ8Îùèè®-
+„squid:S1192"aDefine a constant instead of duplicating this literal "jdbc:mysql://localhost:3306/ds_2" 4 times.(ãò€‡úÿÿÿÿ8Îùèè®-
